@@ -20,7 +20,7 @@ The project consists in a prototype of a "Towe Defense" game type in Unreal Engi
 ***
 
 1. To execute the project, download it and store it in the desired path.
-2. Navigate to the specified path and run the file "TheLastShelter.uproject".
+2. Navigate to the specified path and run the "TheLastShelter.uproject" file.
 3. Click on "Play" to start the game.
 
 ## Objetivos conseguidos / Goals achieved

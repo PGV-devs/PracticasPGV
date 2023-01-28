@@ -9,7 +9,7 @@ Videojuego creado por / Videogame created by:
 
 El proyecto consiste en un prototipo de videojuego del estilo "Tower Defense" en Unreal Engine 4.
 
-The project consists in a prototype of a "Towe Defense" type in Unreal Engine 4.
+The project consists in a prototype of a "Towe Defense" game type in Unreal Engine 4.
 
 ## Instrucciones para ejecutar el proyecto / Instructions to execute the project.
 
